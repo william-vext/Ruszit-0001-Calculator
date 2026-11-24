@@ -24,7 +24,15 @@ The project was developed and tested using:
 
 Other operating systems and compiler versions have not been tested yet.
 
+## Platform Compatibility
 
+| Platform | Status |
+|---|---|
+| Alpine Linux | Tested |
+| Other Linux distributions | Untested |
+| Windows | Untested |
+| macOS | Untested |
+| Termux | Untested |
 
 
 
